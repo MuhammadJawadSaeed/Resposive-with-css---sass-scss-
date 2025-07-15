@@ -42,6 +42,9 @@ main {
   margin: 0.9rem 0;
   opacity: 0.6;
 }
+.view-1 p br {
+  display: none;
+}
 
 .view-2 {
   width: 100%;
@@ -106,6 +109,9 @@ main {
   }
   .view-1 p {
     font-size: 1.5rem;
+  }
+  .view-1 p br {
+    display: block;
   }
   .view-2 .marquee {
     width: 50%;

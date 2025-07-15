@@ -37,6 +37,9 @@ main {
     line-height: 1.6;
     margin: 0.9rem 0;
     opacity: 0.6;
+    br{
+      display: none;
+    }
   }
 }
 .view-2 {
@@ -103,6 +106,9 @@ main {
     }
     p {
       font-size: 1.5rem;
+      br{
+        display: block;
+      }
     }
   }
   .view-2 {
